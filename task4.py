@@ -1,0 +1,7 @@
+hours1 = int()
+min1 = int()
+sec1 = int()
+hours2 = int()
+min2 = int()
+sec2 = int()
+print(((hours2-hours1)*3600)+((min2-min1)*60)+(sec2-sec1))
